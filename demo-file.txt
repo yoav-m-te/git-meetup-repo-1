@@ -1,3 +1,4 @@
 Let's start with some text!
 adding some content...
 pull example text
+text from merge conflict branch
